@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.swordfish.face_talk",
+      "sha256_cert_fingerprints": [
+        "86:C2:06:6A:9A:C3:A7:06:ED:D8:47:C6:BC:AD:7B:D5:AC:7E:E2:24:E4:E7:EB:E1:11:6C:64:85:AA:7F:3E:DF"
+      ]
+    }
+  }
+]
